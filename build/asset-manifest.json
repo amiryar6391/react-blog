@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.d6b6588f.css",
+    "main.js": "/react-blog/static/js/main.24e66d08.js",
+    "static/media/Poppins-Regular.ttf": "/react-blog/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/post-1.jpg": "/react-blog/static/media/post-1.25913435c5fbc36e5aca.jpg",
+    "static/media/post-2.jpg": "/react-blog/static/media/post-2.a148d0988a3b605915c3.jpg",
+    "static/media/post-3.jpg": "/react-blog/static/media/post-3.6a0c63d650d55aa77e19.jpg",
+    "static/media/hero-bg.jpg": "/react-blog/static/media/hero-bg.73c37175ba0b271d7678.jpg",
+    "static/media/about.jpg": "/react-blog/static/media/about.60e9d7dab4276c8d46aa.jpg",
+    "index.html": "/react-blog/index.html",
+    "main.d6b6588f.css.map": "/react-blog/static/css/main.d6b6588f.css.map",
+    "main.24e66d08.js.map": "/react-blog/static/js/main.24e66d08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b6588f.css",
+    "static/js/main.24e66d08.js"
+  ]
+}
